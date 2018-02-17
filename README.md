@@ -6,13 +6,13 @@ Nand2Tetris is a project-oriented applied computer science course that guides st
 
 The following topics are covered in this comprehensive course:
 <ul>
-<li>Hardware<li>
-<li>Architecture<li>
-<li>Operating Systems<li>
-<li>Programming Languages<li>
-<li>Compilers<li>
-<li>Data Structures and Algorithms<li>
-<li>Software Engineering<li>
+<li>Hardware</li>
+<li>Architecture</li>
+<li>Operating Systems</li>
+<li>Programming Languages</li>
+<li>Compilers</li>
+<li>Data Structures and Algorithms</li>
+<li>Software Engineering</li>
 </ul>
 
 Projects Overview:
