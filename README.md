@@ -17,7 +17,7 @@ The following topics are covered in this comprehensive course:
 
 Projects Overview:
 <ul>
-<li>4 hardware-related projects, built using a Hardware Description Language (HDL) and simulated on a supplied hardware simulator</li> 
+<li>4 hardware-related projects, built using a Hardware Description Language (HDL) and simulated on the course-supplied hardware simulator.</li> 
 <li>5 software projects (assembler, virtual machine I and II, and compiler I and II), which could be written in any programming language (Python).</li>
 <li>3 additional projects (low-level programming, high-level programming, and the operating system), written in the assembly language and high-level language implemented in previous projets.</li>
 </ul>
