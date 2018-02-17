@@ -5,13 +5,15 @@ This repository contains my hardware and software projects for each module of Na
 Nand2Tetris is a project-oriented applied computer science course that guides students through the construction of a modern, full-scale computer system from the ground up.
 
 The following topics are covered in this comprehensive course:
--Hardware
+<ul>
+<li>Hardware<li>
 -Architecture
 -Operating Systems
 -Programming Languages
 -Compilers
 -Data Structures and Algorithms
 -Software Engineering
+</ul>
 
 Projects Overview:
 -4 hardware-related projects, built using a Hardware Description Language (HDL) and simulated on a supplied hardware simulator. 
